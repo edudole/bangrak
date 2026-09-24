@@ -1,2 +1,0 @@
-window.STUDENT_PROFILE_WEB_APP_URL =
-  '';
